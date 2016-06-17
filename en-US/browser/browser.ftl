@@ -6,4 +6,5 @@ urlbar =
   [placeholder] Search or enter address
   [accesskey]   d
 
-browser-crashed = { brand-short-name } has crashed
+brand-short-name = Firefox
+browser-crashed  = { brand-short-name } has crashed
