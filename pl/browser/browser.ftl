@@ -5,6 +5,3 @@
 urlbar =
   [placeholder] Wprowadź adres lub szukaj
   [accesskey]   d
-
-brand-short-name = Firefox
-  [gender] masculine
